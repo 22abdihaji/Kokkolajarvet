@@ -1,4 +1,4 @@
-# Kokkolan Järvet ja Kalastusmahdollisuudet 🎣
+# Kokkolan Järvet ja Kalastusmahdollisuudet 
 
 
 ##  Suurimmat järvet maakunnassa
