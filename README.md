@@ -5,7 +5,7 @@ Tämä listaa Kokkolan alueen järvet, niiden kalakannat ja retkeilymahdollisuud
 
 ##  Järvilista
 | **Järvi** | **Pinta-ala (ha)** | **Kalalajit** | **Retkeilymahdollisuudet** |
-|
+|-------------------------------------------------------------------------------------
 | **Venetjoen tekojärvi** | 1 521,3 | Ahven, hauki, särki | Ei merkittäviä retkeilyrakenteita |
 | **Ullavanjärvi** | 1 306,8 | Ahven, hauki, särki | Koirakarin kota |
 | **Byrkholmsfjärden** | 572,6 | Ahven, hauki, särki | Ei merkittäviä retkeilyrakenteita |
